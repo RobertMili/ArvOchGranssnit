@@ -12,6 +12,8 @@ public class Main {
         CarClass car = new CarClass();
 
         System.out.println(car.makeColor() + " its a color, and model it is : " + car.getCar());
+
+
     }
 
 }
