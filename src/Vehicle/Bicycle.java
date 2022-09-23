@@ -1,2 +1,4 @@
-package Vehicle;public class Bicycle {
+package Vehicle;
+
+public class Bicycle {
 }

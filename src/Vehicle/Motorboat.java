@@ -1,2 +1,4 @@
-package Vehicle;public class Motorboat {
+package Vehicle;
+
+public class Motorboat {
 }

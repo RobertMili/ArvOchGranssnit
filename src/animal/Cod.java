@@ -1,2 +1,8 @@
-package animal;public class Cod {
+package animal;
+
+import ExerciseFour.Fish;
+
+public class Cod extends Fish {
+
+
 }
